@@ -9,7 +9,7 @@ mvn clean test
 📁 Estructura
 text
 src/
-├── test/java/com/tuusuario/
+├── test/java/com/arsatec/
 │   ├── tests/
 │   ├── pages/
 │   ├── utils/

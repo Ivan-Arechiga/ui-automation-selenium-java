@@ -1,0 +1,4 @@
+com/arsatec/config/Config.class
+com/arsatec/pages/LoginPage.class
+com/arsatec/utils/BrowserActions.class
+com/arsatec/tests/LoginTests.class

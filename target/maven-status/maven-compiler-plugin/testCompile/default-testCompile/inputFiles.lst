@@ -1,0 +1,4 @@
+/workspaces/ui-automation-selenium-java/src/test/java/com/arsatec/tests/LoginTests.java
+/workspaces/ui-automation-selenium-java/src/test/java/com/arsatec/utils/BrowserActions.java
+/workspaces/ui-automation-selenium-java/src/test/java/com/arsatec/config/Config.java
+/workspaces/ui-automation-selenium-java/src/test/java/com/arsatec/pages/LoginPage.java
